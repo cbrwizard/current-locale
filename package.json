@@ -1,0 +1,21 @@
+{
+  "name": "current_locale.js",
+  "version": "1.0.0",
+  "description": "Simple current locale getter with only the necessary options.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "current",
+    "locale",
+    "browser",
+    "locale",
+    "js"
+  ],
+  "author": "cbrwizard.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "simple-mock": "^0.3.1"
+  }
+}
