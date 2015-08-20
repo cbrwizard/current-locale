@@ -1,6 +1,6 @@
 {
   "name": "current-locale",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple current locale getter with only the necessary options.",
   "scripts": {
     "test": "mocha"

@@ -1,4 +1,5 @@
 # current-locale
+[![npm version](https://badge.fury.io/js/current-locale.svg)](https://www.npmjs.com/package/current-locale)
 ## What
 A simple function which returns current locale.
 
