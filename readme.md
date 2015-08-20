@@ -17,7 +17,7 @@ var currentLocale = currentLocaleFunction({
   fallbackLocale: 'en-US'
 });
 ```
-3. `currentLocale` variable now contains your locale.
+`currentLocale` variable now contains your locale.
 ```javascript
 console.log(currentLocale); // 'en-US'
 ```
