@@ -27,6 +27,7 @@ It has two options:
 - `supportedLocales` is an array of supported locales. If it is passed and the browser locale is not one of them, then
 the function will return false.
 - `fallbackLocale` is a name of a locale which should be returned if browser locale is not one of supportedLocales.
+
 If you do not provide any options, this function will return whatever browser says about current locale, which is usually right.
 
 ## Browser support
