@@ -5,6 +5,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbrwizard/current_locale.js.git"
+  },
   "keywords": [
     "current",
     "locale",
