@@ -9,7 +9,7 @@
  */
 function getUserLanguage(options) {
   if (typeof options === 'undefined') {
-    options = {}
+    options = {};
   }
 
   var browserLanguage = navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage);
@@ -20,9 +20,9 @@ function getUserLanguage(options) {
     if (options.supportedLocales.indexOf(browserLanguage) > -1) {
       return browserLanguage;
     } else if (typeof options.fallbackLocale !== 'undefined') {
-      return options.fallbackLocale
+      return options.fallbackLocale;
     } else {
-      return undefined
+      return undefined;
     }
   }
 }
