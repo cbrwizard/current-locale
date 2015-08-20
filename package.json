@@ -1,6 +1,6 @@
 {
-  "name": "current_locale.js",
-  "version": "1.0.1",
+  "name": "current_locale",
+  "version": "1.0.2",
   "description": "Simple current locale getter with only the necessary options.",
   "scripts": {
     "test": "mocha"
@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cbrwizard/current_locale.js.git"
+    "url": "https://github.com/cbrwizard/current_locale.git"
   },
   "keywords": [
     "current",
@@ -17,7 +17,7 @@
     "locale",
     "js"
   ],
-  "author": "cbrwizard.com",
+  "author": "cbrwizard",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.2.5",

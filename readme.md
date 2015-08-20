@@ -1,4 +1,4 @@
-# current_locale.js
+# current_locale
 ## What
 A simple function which returns current locale.
 
@@ -7,7 +7,7 @@ Call it using getUserLanguage(options), where options - is an optional object.
 
 ## Options?
 It has two options:
-- supportedLocales is an array of supported locales. If it is passed and the browser locale is not one of them, then 
+- supportedLocales is an array of supported locales. If it is passed and the browser locale is not one of them, then
 the function will return false.
 - fallbackLocale is a name of a locale which should be returned if browser locale is not one of supportedLocales.
 
