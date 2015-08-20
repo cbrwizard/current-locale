@@ -5,6 +5,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/cbrwizard/current_locale.js.git"
