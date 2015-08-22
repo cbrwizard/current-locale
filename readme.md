@@ -30,6 +30,9 @@ the function will return false.
 
 If you do not provide any options, this function will return whatever browser says about current locale, which is usually right.
 
+## Isomorphic
+It supports isomorphic apps. When `navigator` is undefined, it returns fallbackLocale you passed.
+
 ## Browser support
 All modern browsers and even some IEs.
 
